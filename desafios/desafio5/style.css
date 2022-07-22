@@ -1,0 +1,51 @@
+
+body{
+    background-color: rgba(0, 0, 0, 0.185);
+}
+
+      
+
+
+.titulo{
+    font-size: 0.5em;
+}
+
+
+
+.foto{
+    
+    padding:9.5em 1.5em 1.5em;
+    background-color: rgb(174, 118,98) ;
+    display: inline-block;
+    float: left;
+    width: 150px;
+    height: 48em;   
+    
+
+}
+   
+.corpo{
+    
+   padding-top: 1em ;
+   
+   
+
+}
+.redesocial{
+    font-size: 2em;
+    
+    
+}
+
+h2{
+    font-size: 3.5em;;
+}
+p{
+    font-size: 1.5em;
+}
+
+
+
+   
+
+
